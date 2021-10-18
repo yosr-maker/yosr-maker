@@ -1,6 +1,7 @@
 ### Hi there, I'm Yosr 👋
 ![FULL-STACK-DEV-GRAPH-2](https://user-images.githubusercontent.com/57325844/137721878-a0d78780-81b9-4617-9c44-e0385489d290.jpg)
 
+![image](https://user-images.githubusercontent.com/57325844/137723382-ee9b612b-f12c-46e3-9f4d-02d551c0152c.png)
 
 
 🧑I'm a Human, Friend, Full-stack Developer ! <br>
