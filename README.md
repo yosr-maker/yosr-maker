@@ -1,16 +1,17 @@
 ### Hi there 👋
+![FULL-STACK-DEV-GRAPH-2](https://user-images.githubusercontent.com/57325844/137721878-a0d78780-81b9-4617-9c44-e0385489d290.jpg)
 
-<!--
-**yosr-maker/yosr-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hi there, I'm Yosr 
+🧑I'm a Human, Friend, Full-stack Developer ! 
+💻 I m a web dev student at ESPRIT , currently searching for 6 months graduation intership .
+🏻‍ I’m currently learning Java,Angular , Scrum aaand CI/CD plus some cloud concepts 💯
+👯 I’m looking to integrate what i have learnt in some professional projects 💪🏽 
+🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L later !🌱
+
+Find my projects below , thanks for any feedback :)  !
+                         
+                         
+                                     
