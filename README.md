@@ -12,5 +12,7 @@
 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L later !🌱<br>
 </p>
 <b> Find my projects below , thanks for any feedback :)  ! </B>
-                        
-                  ![image](https://user-images.githubusercontent.com/57325844/137723382-ee9b612b-f12c-46e3-9f4d-02d551c0152c.png) 
+                   
+                   
+                   ![image](https://user-images.githubusercontent.com/57325844/137723675-05e144b5-aa4b-4385-9d1f-234b2bc64897.png)
+
