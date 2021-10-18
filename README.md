@@ -1,4 +1,5 @@
 ### Hi there, I'm Yosr 👋
+![FULL-STACK-DEV-GRAPH-2](https://user-images.githubusercontent.com/57325844/137721878-a0d78780-81b9-4617-9c44-e0385489d290.jpg)
 <p>
 🧑I'm a Human, Friend, Full-stack Developer ! <br>
 💻 I m a web dev student at ESPRIT , currently searching for 6 months graduation intership .<br>
@@ -9,7 +10,7 @@
 <b> Find my projects below , thanks for any feedback :)  ! </b>
 
 
- ![FULL-STACK-DEV-GRAPH-2](https://user-images.githubusercontent.com/57325844/137721878-a0d78780-81b9-4617-9c44-e0385489d290.jpg)
+ 
                          
                    
 
