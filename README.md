@@ -13,5 +13,4 @@
 </p>
 <b> Find my projects below , thanks for any feedback :)  ! </B>
                         
-                                     
-<center> ![image](https://user-images.githubusercontent.com/57325844/137723382-ee9b612b-f12c-46e3-9f4d-02d551c0152c.png) </center>
+                  ![image](https://user-images.githubusercontent.com/57325844/137723382-ee9b612b-f12c-46e3-9f4d-02d551c0152c.png) 
