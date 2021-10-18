@@ -1,4 +1,4 @@
-                                                 <b>     Hi there, I'm Yosr Hamrouni 👋 </b>
+                                                 Hi there, I'm Yosr Hamrouni 👋 
 ![FULL-STACK-DEV-GRAPH-2](https://user-images.githubusercontent.com/57325844/137721878-a0d78780-81b9-4617-9c44-e0385489d290.jpg)
 <p>
 🧑I'm a Human, Friend, Full-stack Developer ! <br>
