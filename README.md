@@ -11,7 +11,7 @@
   height="17"
   alt="France"> <br>
 👯 I’m looking to integrate what i have learnt in some professional projects 💪🏽 <br>
-🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L later !🌱<br>
+🥅 2022 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L later !🌱<br>
 </p>
 <b> Find my projects below , thanks for any feedback :)  ! </b>
 
