@@ -7,9 +7,9 @@
 💻 I'm doing my end of studies internship in Paris !
  <img src="https://flagcdn.com/w40/fr.png"
   srcset="https://flagcdn.com/w80/fr.png 2x"
-  width="40"
-  height="27"
-  alt="France">
+  width="30"
+  height="17"
+  alt="France"> <br>
 👯 I’m looking to integrate what i have learnt in some professional projects 💪🏽 <br>
 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L later !🌱<br>
 </p>
