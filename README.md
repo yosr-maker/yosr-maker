@@ -4,7 +4,7 @@
 🧑I'm a Human, Friend, Full-stack Developer ! <br>
 💻 I m a web dev student at ESPRIT 
 🏻‍ I’m currently learning Java, Angular, React , Scrum aaand CI/CD plus some cloud concepts 💯 <br>
-💻 I'm doing my end of studies internship in Paris !
+💻 I'm doing my end of studies internship in Paris 
  <img src="https://flagcdn.com/w40/fr.png"
   srcset="https://flagcdn.com/w80/fr.png 2x"
   width="30"
