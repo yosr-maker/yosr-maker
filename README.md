@@ -1,5 +1,6 @@
 ###                                                               Hi there, I'm Yosr Hamrouni 👋 
-                        ![image](https://user-images.githubusercontent.com/57325844/173868949-9e8db443-2cb3-4d2f-9b72-77fb1cd65789.png) 
+                          ![image](https://user-images.githubusercontent.com/57325844/173869286-ec1547a2-cd0b-4129-833f-73bf06e63fd8.png)
+
 <p>
 🧑I'm a Human, Friend, Full-stack Developer ! <br>
 💻 I m a web dev student at ESPRIT 
