@@ -3,7 +3,7 @@
 <p>
 🧑I'm a Human, Friend, Full-stack Developer ! <br>
 💻 I m a web dev Engineer From ESPRIT 
-🏻‍ I’m currently learning Java, Angular, React ,JavaScript, Scrum aaand CI/CD plus some cloud concepts 💯 <br>
+🏻‍ I’m currently working with Java, Angular, React ,JavaScript, Scrum aaand CI/CD plus some cloud concepts 💯 <br>
 💻 I'm a software engineer in Paris 
  <img src="https://flagcdn.com/w40/fr.png"
   srcset="https://flagcdn.com/w80/fr.png 2x"
