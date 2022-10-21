@@ -2,9 +2,9 @@
 ![image](https://user-images.githubusercontent.com/57325844/173870588-5a3757e1-f668-45a0-870f-852713187cd8.png)
 <p>
 🧑I'm a Human, Friend, Full-stack Developer ! <br>
-💻 I m a web dev student at ESPRIT 
-🏻‍ I’m currently learning Java, Angular, React , Scrum aaand CI/CD plus some cloud concepts 💯 <br>
-💻 I'm doing my end of studies internship in Paris 
+💻 I m a web dev Engineer From ESPRIT 
+🏻‍ I’m currently learning Java, Angular, React ,JavaScript, Scrum aaand CI/CD plus some cloud concepts 💯 <br>
+💻 I'm a software engineer in Paris 
  <img src="https://flagcdn.com/w40/fr.png"
   srcset="https://flagcdn.com/w80/fr.png 2x"
   width="30"
